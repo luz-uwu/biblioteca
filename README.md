@@ -2,6 +2,8 @@
 
 ## VOCÊ ACHA QUE A BIBLIOTECA NO NCE É BOA??? É PORQUE VOCÊ NÃO CONHECE A MINA DE OURO PRESENTE NESTE REPOSITÓRIO!!!!!
 
+![ilustração da biblioteca lusitana](carregarlivros.png)
+
 Eis a coleção das melhores literaturas de estudo para o Bacharelado em Ciência da Computação da UFRJ, curadas por mim, Luz™.
 
 O foco principal do repositório é agregar um conjunto pequeno de livros que abrangem uma ou mais disciplinas em profundidade, para facilitar o acesso aos materiais.
