@@ -46,14 +46,14 @@ Materiais desatualizados, não tão bem avaliados, mas que ainda podem ser útei
 * **Precalculus: Mathematics for Calculus** – James Stewart -
   [drive](https://drive.google.com/file/d/1XIkZnf91TvcZTFSXfc_AFYNkhH0Y4h64/view?usp=drive_link) – [download direto](https://files.catbox.moe/e5ehtp.pdf)
 
-  Parte de funções, trigonometria e pré-cálculo que aparece geralmente na última prova. É bom pegar bem esse final pra ir bem em Cálculo 1.
+  Parte de funções, trigonometria e pré-cálculo que aparece geralmente na última prova. É interessante pegar bem esse final pra ir bem em Cálculo 1.
 
 ## Programação de Computadores I
 
 * **C Programming: A Modern Approach** – K. N. King -
   [drive](https://drive.google.com/file/d/1I5A5XexiSFYoUcrCYBcLPj2lKywuXxMn/view?usp=drive_link) – [download direto](https://files.catbox.moe/wynxm5.pdf)
 
-  Sem sombra de dúvidas o melhor livro de C em questão de didática. Alguns preferem o livro do Dennis Ritchie, mas esse é muito mais didático, com exemplos mais ricos e cheio de exercícios.
+  Sem sombra de dúvidas o melhor livro de C já escrito na face da terra em questão de didática. Alguns preferem o livro do Dennis Ritchie (🤮), mas esse é muito mais didático, com exemplos mais ricos e cheio de exercícios.
   Ele sozinho tanka Prog I e II sem precisar de outro material.
 
 ## Fundamentos de Sistemas de Computação
@@ -61,7 +61,7 @@ Materiais desatualizados, não tão bem avaliados, mas que ainda podem ser útei
 * **Discrete Mathematics with Applications** – Susanna S. Epp -
   [drive](https://drive.google.com/file/d/1pcqrAc-v6BTAxDq9mIuKM1KfXrJ2TFl3/view?usp=drive_link) – [download direto](https://files.catbox.moe/nvvveu.pdf)
 
-  Os capítulos de lógica aplicada a circuitos ajudam bastante, porque é uma parte mais teórica e precisa saber de lógica. Tirando isso, é uma disciplina que basta ler os slides da Silvana que você está em boas mãos.
+  Os capítulos de lógica aplicada a circuitos ajudam bastante, porque é uma parte mais teórica e precisa saber de lógica. Tirando isso, é uma disciplina que basta ler os slides da Silvana que você se vira.
 
 ## Números Inteiros e Criptografia
 
@@ -74,7 +74,7 @@ Materiais desatualizados, não tão bem avaliados, mas que ainda podem ser útei
 * **Discrete Mathematics with Applications** – Susanna S. Epp -
   [drive](https://drive.google.com/file/d/1pcqrAc-v6BTAxDq9mIuKM1KfXrJ2TFl3/view?usp=drive_link) – [download direto](https://files.catbox.moe/nvvveu.pdf)
 
-  O capítulo de provas matemáticas desse livro é uma das coisas mais belas que há na existência finita da carne. Aprender indução matemática com esse livro foi um dos maiores prazeres que minh'alma experienciou nos últimos anos. Mas só isso mesmo, é que o livro do Collier não ensina provas matemáticas. Ajudou legal.
+  O capítulo de provas matemáticas desse livro é uma das coisas mais belas que há na existência finita da carne amaldiçoada por demiurgo e suas legiões de demônios. Aprender indução matemática com esse livro foi um dos maiores prazeres que minh'alma experienciou nos últimos anos antes de alcançar a gnose e transcender a matéria. Mas só isso mesmo, é que o livro do Collier não ensina provas matemáticas. Ter esse ajudou maneiro.
 
 ---
 
@@ -114,7 +114,7 @@ Materiais desatualizados, não tão bem avaliados, mas que ainda podem ser útei
 * **C Programming: A Modern Approach** – K. N. King -
   [drive](https://drive.google.com/file/d/1I5A5XexiSFYoUcrCYBcLPj2lKywuXxMn/view?usp=drive_link) – [download direto](https://files.catbox.moe/wynxm5.pdf)
 
-  Esse livro explica ponteiros, alocação de memória e todas essas complicações de uma forma deliciosa, nem vai parecer o demônio que fazem acreditar que é. Confia.
+  Esse livro explica ponteiros, alocação de memória e todas essas complicações de uma forma deliciosa, nem vai parecer o demônio que fazem acreditar que é. Traz uma continuiação direta de Prog I. Confia, é bom.
 
   Há um peso grande em algoritmos específicos de ordenação e de busca (merge sort, binary search, etc.), mas os slides do Marcos foram muito bons nesse quesito. Caso queira, consulte a literatura da disciplina de Estruturas de Dados para informação mais aprofundada, mas não acho necessário.
 
@@ -124,30 +124,31 @@ Materiais desatualizados, não tão bem avaliados, mas que ainda podem ser útei
   [drive](https://drive.google.com/file/d/1pcqrAc-v6BTAxDq9mIuKM1KfXrJ2TFl3/view?usp=drive_link) – [download direto](https://files.catbox.moe/nvvveu.pdf)
 
   A depender da pegada do professor, esse livro sozinho pode não ser o suficiente: os capítulos de grafos não são tão completos. Apesar disso, as partes de provas matemáticas, probabilidade e contagem são bem robustas; os exercícios são bons; e a didática desse livro é ímpar.
-  Super recomendo, foi o único livro que li do começo ao fim ao longo de um ano de curso.
+  Super recomendo, foi o único livro que li do começo ao fim ao longo de um ano de curso, penso até em comprar um dia de tão útil que foi.
 
 ---
 
 # 3
+Note camarada *voz do jones manoel*, a partir daqui eu estou estudando junto com você, então não tenho como saber se o livro é realmente bom, mas todo mundo no reddit disse que é bom.
 
 ## Álgebra Linear Algorítmica
 
 * **Introduction to Linear Algebra** – Gilbert Strang -
   [drive](https://drive.google.com/file/d/15kq27UTzm68ZJ_VbR-fSpWUXBWgEH3si/view?usp=drive_link) – [download direto](https://files.catbox.moe/ydky6o.pdf)
 
-  Apesar de não cobrir tão bem a parte algorítmica, é o suficiente pra estudar para a P1 e P2. É bem completo no sentido de oferecer um conhecimento robusto sobre a matemática da coisa.
+  Apesar de não cobrir tão bem a parte algorítmica, é o suficiente pra estudar para a P1 e P2. É bem completo no sentido de oferecer um conhecimento robusto sobre a matemática da coisa. A juvianna recomenda outro livro do autor, o linear algebra and its applications, ainda tenho que ver se esse dela é melhor que o que estou usando no momento.
 
 * **Apostila de Álgebra Linear** – S. C. Collier -
   [drive](https://drive.google.com/file/u/1/d/117XBjtR4qDCfG5FE6kjrjithrFY-bH3Q/view?usp=drive_link)
 
-  Em tese, dá pra fazer a disciplina toda com essa apostila. Eu acho 200 páginas pouca coisa, you do you.
+  Em tese, dá pra fazer a disciplina toda com essa apostila. Eu acho 200 páginas pouca coisa.
 
 ## Estruturas de Dados
 
 * **Algorithms** – Robert Sedgewick e Kevin Wayne -
   [drive](https://drive.google.com/file/d/1Dka1lvE8eta42uk-jFGyUyVpqpAKIcdt/view?usp=drive_link) – [download direto](https://files.catbox.moe/g9i5dk.pdf)
 
-  Existe também uma variedade grande de recursos sobre essa área, sinta-se livre para escolher o tipo de material que você preferir — tem pra todos os gostos. Mas esse livro é um ótimo complemento às aulas, muito profundo.
+  Existe também uma variedade grande de recursos sobre essa área, sinta-se livre para escolher o tipo de material que você preferir, tem pra todos os gostos. Mas esse livro é um ótimo complemento às aulas, muito profundo.
 
 ## Programação Orientada a Objetos
 
@@ -155,3 +156,7 @@ Materiais desatualizados, não tão bem avaliados, mas que ainda podem ser útei
   [drive](https://drive.google.com/file/d/1ILLFx2zSMxbI_Gt20Ymkn2H-sGhEJwdw/view?usp=drive_link) – [download direto](https://files.catbox.moe/u9b10x.pdf)
 
   Melhor livro de Java que existe. Ele é feito pra quem já vem de alguma outra linguagem como C, encaixa muito bem no andamento do curso e daria pra fazer a disciplina toda só lendo esse livro.
+
+---
+
+### Você tem algum material que te ajudou a passar naquela matéria dificil? Tens alguma edição deluxe que ninguém mais tem? Acha que eu falei merda? faça um pull request ou mande um email pra mim!!!!
