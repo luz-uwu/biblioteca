@@ -21,6 +21,7 @@ Segue a lista de livros recomendados por disciplina:
 
 ### IPD
 > Discrete mathematics with applications
+
 abrange toda a parte inicial da ementa, como lógica proposicional, conjuntos numérios, etc. Esse livro vai te ajudar durante os primeiros dois períodos inteiros, é bom ter ele em mãos sempre.
 
 > Precalculus - James stewart
